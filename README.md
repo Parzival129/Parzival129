@@ -3,7 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-beacheshiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:beacheshiro@gmail.com)](mailto:beacheshiro@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-<img align="right" alt="JPG" src="https://i.pinimg.com/564x/1e/d7/9e/1ed79e61b404db8a9b85ecc70006fde0.jpg" />
+
 
 ### I'm Russell Tabata
 
