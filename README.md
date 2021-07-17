@@ -25,6 +25,10 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+
+
 ### オープンソースプロジェクト | Open Source Projects
 - [Game Boy Programming 🎮](https://github.com/Parzival129/Gameboy-Programming)
 - [Minecraft](https://github.com/Parzival129/Python-Mincraft-Mockup)
