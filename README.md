@@ -30,9 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzival129&layout=compact&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img align="right" alt="GIF" src="https://i.redd.it/qgyn862iacl01.gif" />
-
 ### オープンソースプロジェクト | Open Source Projects
 - [Game Boy Programming 🎮](https://github.com/Parzival129/Gameboy-Programming)
 - [Minecraft](https://github.com/Parzival129/Python-Mincraft-Mockup)
@@ -45,5 +42,6 @@
 - [Chatbot 🗣️](https://github.com/Parzival129/Basic-Chatbot)
 - [RuScript](https://github.com/Parzival129/Programming-Language)
 
+<img align="right" alt="GIF" src="https://i.redd.it/qgyn862iacl01.gif" />
 
 > ***I love to meet fellow developers. so if you want to say hi, I'll be happy to meet you more!😊***
