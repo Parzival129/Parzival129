@@ -26,7 +26,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvizal129&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### オープンソースプロジェクト | Open Source Projects
