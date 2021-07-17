@@ -11,6 +11,8 @@
 - 💬 Ask me about Python, Java and my projects on 
 - ⭐ You may like [Gameboy-Games](https://github.com/Parzival129/Gameboy-Programming) 、[Quantum-Algorithms](https://github.com/Parzival129/Quantum-Algorithms) 、or [EDITH](https://github.com/Parzival129/Desktop-AI)
 
+[![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=parzival129)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🛠 テックスタック | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
