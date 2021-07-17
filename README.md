@@ -31,6 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzival129&layout=compact&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img align="right" alt="GIF" src="https://i.redd.it/zh94bab3ju011.gif" />
+
 ### オープンソースプロジェクト | Open Source Projects
 - [Game Boy Programming 🎮](https://github.com/Parzival129/Gameboy-Programming)
 - [Minecraft](https://github.com/Parzival129/Python-Mincraft-Mockup)
