@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
 
 
 ### オープンソースプロジェクト | Open Source Projects
