@@ -34,7 +34,7 @@
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzival129&theme=radical&layout=compact&hide=assembly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parzival129&theme=radical&layout=compact&hide=assembly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### オープンソースプロジェクト | Open Source Projects
 - [Game Boy Programming 🎮](https://github.com/Parzival129/Gameboy-Programming)
