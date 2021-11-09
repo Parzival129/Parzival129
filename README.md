@@ -12,7 +12,7 @@
 - ⭐ You may like [Gameboy-Games](https://github.com/Parzival129/Gameboy-Programming) 、[Quantum-Algorithms](https://github.com/Parzival129/Quantum-Algorithms) 、or [EDITH](https://github.com/Parzival129/Desktop-AI)
 - ![](https://komarev.com/ghpvc/?username=parzival129&color=blue)
 
-![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=parzival129&count_private=true&include_all_commits=True&theme=radical&show_icons=true)
+![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=parzival129&count_private=true&include_all_commits=true&theme=radical&show_icons=true)
 
 
 ### 🛠 テックスタック | Tech Stack
